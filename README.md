@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kushwaha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20|%20ML%20Enthusiast%20|%20Frontend%20Dev&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
 
 <br/>
 
@@ -16,13 +16,33 @@
 ## 👨‍💻 About Me
 
 ```yaml
-current_project: "Skillzo AI"
-learning: ["Flask", "Machine Learning", "Data Science"]
-collaboration: "Python & AI Projects"
-ask_me_about: ["Python", "Flask", "React"]
-contact: "abhishekkshwaha13405@gmail.com"
-fun_fact: "I enjoy solving real-world problems with code."
-```
+name: "Abhishek Kushwaha"
+
+role: "Aspiring Data Scientist & ML Engineer"
+
+currently_working_on:
+  - Skillzo AI
+  - Machine Learning Projects
+
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - Data Science
+  - Flask
+
+interested_in:
+  - NLP
+  - Predictive Analytics
+  - Computer Vision
+
+ask_me_about:
+  - Python
+  - Machine Learning
+  - Pandas
+  - Flask
+
+email:
+  - abhishekkshwaha13405@gmail.com
 
 <br/>
 
@@ -31,7 +51,8 @@ fun_fact: "I enjoy solving real-world problems with code."
 <div align="center">
 
 <a href="https://github.com/abhish13405">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-18171un_fact: "I enjoy solving real-world problems with code."
+```7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,19 +86,41 @@ fun_fact: "I enjoy solving real-world problems with code."
 <br/>
 
 ## 🚀 Featured Projects
+🤖 Skillzo AI
 
-<div align="center">
+Resume Parser
+ATS Score
+AI Interview
 
-| Project | Description |
-|:---|:---|
-| 🤖 **[Skillzo AI](#)** | AI-powered Resume Analyzer & Mock Interview Platform |
-| 📰 **[Fake News Detection](#)** | Machine Learning model to classify fake and real news |
-| 📊 **[Data Analysis Projects](#)** | Data Cleaning, EDA & Visualization using Pandas & NumPy |
-| 🍽️ **[Diet Planner](#)** | Streamlit app for personalized diet recommendations |
-| 💼 **[Portfolio Website](#)** | Personal portfolio built with HTML, CSS & JavaScript |
+---------------------
 
-</div>
+📊 Customer Churn Prediction
 
+Random Forest
+XGBoost
+SHAP
+
+---------------------
+
+🏠 House Price Prediction
+
+Regression
+Feature Engineering
+
+---------------------
+
+💳 Credit Card Fraud Detection
+
+Isolation Forest
+SMOTE
+
+---------------------
+
+📰 Fake News Detection
+
+NLP
+TF-IDF
+Logistic Regression
 <br/>
 
 ## 📈 GitHub Statistics
