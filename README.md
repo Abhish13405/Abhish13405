@@ -133,4 +133,8 @@ f
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-</div> puri to ye hai
+</div> <div align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</div>
