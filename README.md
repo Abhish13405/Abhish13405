@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+``yaml
 current_project: "Skillzo AI"
 learning: ["Flask", "Machine Learning", "Data Science"]
 collaboration: "Python & AI Projects"
@@ -25,7 +25,7 @@ f
 
 <br/>
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
