@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kushwaha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20|%20ML%20Enthusiast%20|%20Frontend%20Dev&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
 
 <br/>
 
@@ -16,33 +16,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: "Abhishek Kushwaha"
-
-role: "Aspiring Data Scientist & ML Engineer"
-
-currently_working_on:
-  - Skillzo AI
-  - Machine Learning Projects
-
-currently_learning:
-  - Machine Learning
-  - Deep Learning
-  - Data Science
-  - Flask
-
-interested_in:
-  - NLP
-  - Predictive Analytics
-  - Computer Vision
-
-ask_me_about:
-  - Python
-  - Machine Learning
-  - Pandas
-  - Flask
-
-email:
-  - abhishekkshwaha13405@gmail.com
+current_project: "Skillzo AI"
+learning: ["Flask", "Machine Learning", "Data Science"]
+collaboration: "Python & AI Projects"
+ask_me_about: ["Python", "Flask", "React"]
+contact: "abhishekkshwaha13405@gmail.com"
+f
 
 <br/>
 
@@ -86,41 +65,19 @@ email:
 <br/>
 
 ## 🚀 Featured Projects
-🤖 Skillzo AI
 
-Resume Parser
-ATS Score
-AI Interview
+<div align="center">
 
----------------------
+| Project | Description |
+|:---|:---|
+| 🤖 **[Skillzo AI](#)** | AI-powered Resume Analyzer & Mock Interview Platform |
+| 📰 **[Fake News Detection](#)** | Machine Learning model to classify fake and real news |
+| 📊 **[Data Analysis Projects](#)** | Data Cleaning, EDA & Visualization using Pandas & NumPy |
+| 🍽️ **[Diet Planner](#)** | Streamlit app for personalized diet recommendations |
+| 💼 **[Portfolio Website](#)** | Personal portfolio built with HTML, CSS & JavaScript |
 
-📊 Customer Churn Prediction
+</div>
 
-Random Forest
-XGBoost
-SHAP
-
----------------------
-
-🏠 House Price Prediction
-
-Regression
-Feature Engineering
-
----------------------
-
-💳 Credit Card Fraud Detection
-
-Isolation Forest
-SMOTE
-
----------------------
-
-📰 Fake News Detection
-
-NLP
-TF-IDF
-Logistic Regression
 <br/>
 
 ## 📈 GitHub Statistics
@@ -176,4 +133,4 @@ Logistic Regression
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-</div>
+</div> puri to ye hai
