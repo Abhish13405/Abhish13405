@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kushwaha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20|%20ML%20Enthusiast%20|%20Frontend%20Dev&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Kushwaha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20•%20ML%20Enthusiast%20•%20Frontend%20Dev&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
 
 <br/>
 
@@ -15,25 +15,23 @@
 
 ## 👨‍💻 About Me
 
-``yaml
-current_project: "Skillzo AI"
-learning: ["Flask", "Machine Learning", "Data Science"]
-collaboration: "Python & AI Projects"
-ask_me_about: ["Python", "Flask", "React"]
-contact: "abhishekkshwaha13405@gmail.com"
-f
+- 🔭 Currently building **Skillzo AI** — an AI-powered resume analyzer & mock interview platform
+- 🌱 Currently learning **Flask**, **Machine Learning**, and **Data Science**
+- 🤝 Open to collaborating on **Python & AI projects**
+- 💬 Ask me about **Python, Flask, React**
+- 📫 Reach me at **abhishekkshwaha13405@gmail.com**
+- ⚡ Fun fact: I enjoy solving real-world problems with code
 
 <br/>
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/abhish13405">
-  <img src="https://img.shields.io/badge/GitHub-18171un_fact: "I enjoy solving real-world problems with code."
-```7?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kushwaha-36174629b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
@@ -59,6 +57,19 @@ f
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📊 What I Work With Most
+
+<div align="center">
+
+`Python`      ████████████████████░░░░  80%
+`Flask`       ███████████████░░░░░░░░░  60%
+`React / JS`  █████████████░░░░░░░░░░░  55%
+`ML & Data`   ████████████░░░░░░░░░░░░  50%
 
 </div>
 
@@ -114,10 +125,14 @@ f
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
-> *To enable this, add a GitHub Action called `snake.yml` (I can generate this workflow file for you if you want).*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 <br/>
 
@@ -132,9 +147,5 @@ f
 ⭐ **Thanks for visiting my profile — don't forget to star some repos!** ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div> <div align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
 
 </div>
