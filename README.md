@@ -2,9 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Kushwaha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20•%20ML%20Enthusiast%20•%20Frontend%20Dev&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
 
 <br/>
+
+<img src="https://github.com/abhish13405.png" width="150" style="border-radius:50%" alt="Abhishek Kushwaha"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=abhish13405&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/abhish13405?label=Followers&style=for-the-badge&color=0e75b6"/>
@@ -31,7 +35,7 @@
 <a href="https://github.com/abhish13405">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kushwaha-36174629b/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
@@ -100,7 +104,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhish13405&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=abhish13405&theme=tokyonight&hide_border=true"/>
 
 </div>
 
