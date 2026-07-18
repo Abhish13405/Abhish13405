@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Kushwaha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20•%20ML%20Enthusiast%20•%20Frontend%20Dev&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data Scientist+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
 
 <br/>
 
