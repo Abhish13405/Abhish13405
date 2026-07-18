@@ -116,6 +116,7 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhish13405&theme=tokyo-night&hide_border=true"/>
 </div>
 
+
 <br/>
 
 ## 🏆 GitHub Trophies
@@ -128,15 +129,21 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abhish13405/abhish13405/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake-dark.svg">
 
-</div>
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
+
+  <img 
+    alt="github contribution snake animation" 
+    src="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
