@@ -127,7 +127,6 @@
 
 <br/>
 
-## 🐍 Contribution Snake
 
 ## 🐍 GitHub Contribution Snake
 
@@ -137,7 +136,7 @@
     srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake-dark.svg">
 
   <source 
-    media="(prefers-color-scheme: light)" 
+    media="(prefers-color-scheme: darkt)" 
     srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
 
   <img 
