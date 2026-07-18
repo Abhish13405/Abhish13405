@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Skillzo AI** — an AI-powered resume analyzer & mock interview platform
+- 🔭 Currently building **Machine learning project** — an AI-powered resume analyzer & mock interview platform
 - 🌱 Currently learning **Flask**, **Machine Learning**, and **Data Science**
 - 🤝 Open to collaborating on **Python & AI projects**
 - 💬 Ask me about **Python, Flask, React**
