@@ -22,7 +22,7 @@
 - 🔭 Currently building **Machine learning project** — an AI-powered resume analyzer & mock interview platform
 - 🌱 Currently learning **Flask**, **Machine Learning**, and **Data Science**
 - 🤝 Open to collaborating on **Python & AI projects**
-- 💬 Ask me about **Python, Flask, React**
+- 💬 Ask me about **Python, Flask**
 - 📫 Reach me at **abhishekkshwaha13405@gmail.com**
 - ⚡ Fun fact: I enjoy solving real-world problems with code
 
