@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Kushwaha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20•%20ML%20Enthusiast%20•%20Frontend%20Dev&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Kushwaha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Python%20Developer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data Scientist+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A;Always+Learning+New+Things...+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Data+Scientist+%F0%9F%90%8D;Python+%26+Flask+Developer+%F0%9F%8C%90;Always+Learning+New+Things...+%E2%9A%A1"/>
 
 <br/>
 
@@ -19,12 +19,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Machine learning project** — an AI-powered resume analyzer & mock interview platform
-- 🌱 Currently learning **Flask**, **Machine Learning**, and **Data Science**
-- 🤝 Open to collaborating on **Python & AI projects**
-- 💬 Ask me about **Python, Flask**
-- 📫 Reach me at **abhishekkshwaha13405@gmail.com**
-- ⚡ Fun fact: I enjoy solving real-world problems with code
+- 🔭 Currently building **Skillzo AI** — an AI-powered resume analyzer & mock interview platform
+- 🌱 Currently learning **Deep Learning (TensorFlow, PyTorch)**, **Flask**, and advanced **Data Science**
+- 🎓 Final-year B.Tech student — Cloud Computing & Machine Learning
+- 🤝 Open to collaborating on **Machine Learning, Deep Learning & AI projects**
+- 💬 Ask me about **Python, Machine Learning, Flask**
+- 📫 Reach me at **abhishekkushwaha13405@gmail.com**
+- ⚡ Fun fact: I enjoy solving real-world problems with ML models
 
 <br/>
 
@@ -35,13 +36,10 @@
 <a href="https://github.com/abhish13405">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/abhishek-kushwaha-36174629b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:abhishekkshwaha13405@gmail.com">
+<a href="mailto:abhishekkushwaha13405@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -53,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,flask,mysql,git,vscode,html,css,js,react&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,flask,mysql,git,vscode,html,css,js&perline=11"/>
 
 <br/><br/>
 
@@ -61,6 +59,8 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 </div>
 
@@ -70,10 +70,11 @@
 
 <div align="center">
 
-`Python`      ████████████████████░░░░  80%
-`Flask`       ███████████████░░░░░░░░░  60%
-`React / JS`  █████████████░░░░░░░░░░░  55%
-`ML & Data`   ████████████░░░░░░░░░░░░  50%
+`Machine Learning`  ████████████████████░░░░  80%
+`Python`             ████████████████████░░░░  80%
+`Deep Learning`      ██████████████░░░░░░░░░░  55%
+`Flask`              ███████████████░░░░░░░░░  60%
+`Data Science`       ████████████████░░░░░░░░  65%
 
 </div>
 
@@ -85,11 +86,12 @@
 
 | Project | Description |
 |:---|:---|
-| 🤖 **[Skillzo AI](#)** | AI-powered Resume Analyzer & Mock Interview Platform |
-| 📰 **[Fake News Detection](#)** | Machine Learning model to classify fake and real news |
-| 📊 **[Data Analysis Projects](#)** | Data Cleaning, EDA & Visualization using Pandas & NumPy |
-| 🍽️ **[Diet Planner](#)** | Streamlit app for personalized diet recommendations |
-| 💼 **[Portfolio Website](#)** | Personal portfolio built with HTML, CSS & JavaScript |
+| 🎬 **[Movie Recommendation System](https://github.com/Abhish13405/movies-recommend-system)** | Content-based ML recommendation engine using feature similarity & cosine similarity |
+| 🌾 **[Crop Prediction System](https://github.com/Abhish13405/crop-pridiction-system)** | ML classification model to recommend the best crop from soil & weather parameters |
+| 📊 **[E-Commerce Sales Analysis Dashboard](https://github.com/Abhish13405/E_commerce_data)** | Interactive Streamlit dashboard with EDA & business insights on 45MB+ dataset |
+| 🪨 **[Rock vs Mine Detector](https://github.com/Abhish13405/rock_mine-_defector-)** | Supervised ML classifier on sonar signal data |
+| 📄 **[PDF Merger UI](https://github.com/Abhish13405/pdf_merger_ui)** | Flask-based web tool to merge multiple PDFs |
+| 🤖 **Skillzo AI** *(in progress)* | AI-powered resume analyzer & mock interview platform |
 
 </div>
 
@@ -116,7 +118,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhish13405&theme=tokyo-night&hide_border=true"/>
 </div>
 
-
 <br/>
 
 ## 🏆 GitHub Trophies
@@ -127,20 +128,19 @@
 
 <br/>
 
-
 ## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake-dark.svg">
 
-  <source 
-    media="(prefers-color-scheme: darkt)" 
+  <source
+    media="(prefers-color-scheme: darkt)"
     srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
 
-  <img 
-    alt="github contribution snake animation" 
+  <img
+    alt="github contribution snake animation"
     src="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
 </picture>
 
