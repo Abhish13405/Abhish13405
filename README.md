@@ -1,3 +1,6 @@
+
+<table align="center" width="100%" style="border: 2px solid #0e75b6; border-radius: 10px;">
+<tr><td>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Kushwaha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Python%20Developer&descAlignY=55&descSize=18"/>
@@ -161,3 +164,6 @@ Data Science        ████████████████░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
+
+</td></tr>
+</table>
