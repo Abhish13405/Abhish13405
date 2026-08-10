@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://github.com/abhish13405.png" width="150" style="border-radius:50%" alt="Abhishek Kushwaha"/>
+<img src="https://github.com/abhish13405.png" width="250" style="border-radius:50%" alt="Abhishek Kushwaha"/>
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Skillzo AI** — an AI-powered resume analyzer & mock interview platform
+- 🔭 Currently building **Skillzo speak** — an AI-powered English-speaking 
 - 🌱 Currently learning **Deep Learning (TensorFlow, PyTorch)**, **Flask**, and advanced **Data Science**
 - 🎓 Final-year B.Tech student — Cloud Computing & Machine Learning
 - 🤝 Open to collaborating on **Machine Learning, Deep Learning & AI projects**
@@ -70,11 +70,13 @@
 
 <div align="center">
 
-`Machine Learning`  ████████████████████░░░░  80%
-`Python`             ████████████████████░░░░  80%
-`Deep Learning`      ██████████████░░░░░░░░░░  55%
-`Flask`              ███████████████░░░░░░░░░  60%
-`Data Science`       ████████████████░░░░░░░░  65%
+​```
+Machine Learning   ████████████████████░░░░  80%
+Python              ████████████████████░░░░  80%
+Deep Learning       ██████████████░░░░░░░░░░  55%
+Flask               ███████████████░░░░░░░░░  60%
+Data Science        ████████████████░░░░░░░░  65%
+​```
 
 </div>
 
@@ -101,8 +103,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhish13405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish13405&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhish13405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish13405&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -137,11 +139,11 @@
 
   <source
     media="(prefers-color-scheme: darkt)"
-    srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake-dark.svg">
 
   <img
     alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/Abhish13405/Abhish13405/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <br/>
